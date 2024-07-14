@@ -1,6 +1,5 @@
 # E-comm.-Sales-Data-Analysis-
-In This Project We have to analyse and visualize the sales data.
-I have two csv files details and orders. 
-File named Details contain Order ID	Amount, Profit, Quantity, Category, Sub-Category, PaymentMode.
-File named Order contains Order ID, Order Date,	CustomerName,	State	City.
-From these data in the files I have created an interactive dashboard in Power BI.
+In this project, we analyze and visualize sales data. There are two CSV files: `Details` and `Orders`. 
+- The `Details` file contains the following columns: Order ID, Amount, Profit, Quantity, Category, Sub-Category, and Payment Mode.
+- The `Orders` file contains the following columns: Order ID, Order Date, Customer Name, State, and City.
+Using the data from these files, I created an interactive dashboard in Power BI.
